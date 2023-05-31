@@ -1,19 +1,18 @@
 +++
-title = "Example Post"
-date = "2023-01-01"
+title = "Deutschreportageprojekt LSD"
+date = "2023-02-31"
 draft = false
 pinned = false
-tags = [ "Lilo", "Example" ]
-image = "/img/default-image.jpg"
-description = "In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogeinträgen."
-footnotes = "In der Fusszeile können zum Beispiel Bildquellen angegeben werden. Dieser Text ist abgetrennt durch eine Linie und etwas kleiner."
-+++
+tags = [ "Deutsch", "" ]
+image = "/img/default-image****.jpg"
+description = "Dies ist ein Auftrag vom Gymnasium Kirchenfeld"
 # LSD – Droge oder Therapiestoff? 
 
 *LSD ein Rauschmittel oder doch nur Medizin? Dies ist die Frage, welche wir uns bei unserer Reportage gestellt haben. In unserem Interview mit M. Roder, einem Apotheker und Angestellten beim Pharmazeutischen Kontrolllabor in Bern, haben wir viele wichtige Fakten aber auch Geschichten von Betroffenen erfahren*
 
 Albert Hoffman entdeckte «LSD» 1938, damals stellte er die berühmteste Form, LSD-25 her, allerdings hatte er damals noch kein Versuch damit gemacht, dies kam erst fünf Jahre später. Im Frühjahr 1943 stellte Albert Hoffman noch einmal LSD-25 her. Er hatte aus Versehen einmal vermutlich etwas davon auf den Finger bekommen. Da er danach in einen rauschartigen Zustand verfiel und er es sich nicht anderes erklären konnte, hatte er sich zum Selbstversuch entschlossen. Dieser wurde mit 0.25 mg durchgeführt, was enorm wenig ist, im Verglich zu allem anderen damals bekannten. Hoffman hatte zuerst ein sehr dämonisches Bild von LSD, er durchlebte zuerst nicht wirklich etwas Schönes, bevor es dazu kam, dass er es geniessen konnte. Deshalb war er auch zuerst erstaunt, dass es Leute als Rauschmittel benutzten. Er hatte damals ausser stark geweiteten Pupillen, keine äusserlichen Anomalien. Was auch nicht besonders erstaunt, wenn man die Wirkungen sich einmal genauer anschaut.
 
+![LSD als Papier](/img/zunge.jpg)
 Aufgrund von dem, dass es nur sehr geringe Mengen LSD braucht, um high zu werden, ist die Einnahme ein wenig anders als bei anderen Drogen. LSD wird entweder ganz herkömmlich in Pillenform konsumiert oder über Papierstücke, diese werden in eine Flüssigkeit eingelegt, in welcher das LSD aufgelöst wurde.  Nach dem Trocknen ist der Wirkstoff in dem Papier und muss nur noch gegessen werden.
 
 > Wie funktioniert LSD? – LSD (Lysergsäurediethylamid) bindet an den Rezeptor 
@@ -21,6 +20,7 @@ Aufgrund von dem, dass es nur sehr geringe Mengen LSD braucht, um high zu werden
 > eingeht, LSD bindet unteranderem auch an Dopaminrezeptoren und andere. Die 
 > Plasmahalbwertszeit beträgt etwa 3 Stunden, jedoch geht so ein Rausch etwas 
 > zwischen 8 und 12 Stunden, jedoch kann es Nachwirkungen auch noch während einiger  > Tage danach geben.
+![LSD als Papier](/img/strukturformel.jpg)
 
 Die Wirkungen von LSD sind verschieden, jedoch sind die meisten davon Stressreaktionen, das heisst dass der Blutdruck steigt, der Puls steigt und die Pupillen erweitern sich, um nur einige zu nennen. Diese sind jedoch nicht alle möglichen Reaktionen, es kann auch zu Übelkeit kommen oder zu Krämpfen. Die vermutlich tödliche Dosis dürfte jedoch sehr weit von der Wirkungsdosis entfernt sein, es ist auch kein Todesfall bekannt, welcher direkt von LSD verursacht ist, dies kommt unteranderem davon, dass LSD in der bekömmlichen Form sehr potent ist. Es gibt kaum etwas, was in so kleinen Mengen eine so starke Wirkung hat. Die Stärke kommt jedoch nicht von ungefähr, Albert Hoffmann hat viele sehr ähnliche Substanzen getestet. Jedoch waren abgesehen von LSD-25 kaum Variationen wirklich wirkungsvoll. LSD-25 ist nicht eine spezielle Form, es ist die Form von LSD die vermutlich produziert und verkauft wird. Es gibt zwar auch andere Derivate welche erhältlich sind, jedoch sind diese nicht wirklich wichtig, auch gerade deshalb, weil diese deutlich weniger pychoativ sind. Einer der Haupteinsatzzwecke von LSD war die Behandlung von PTBS. Dieser Einsatzzweck verschwindet allerdings immer mehr, da MDMA besser geeignet ist, es spricht jedoch kaum etwas dagegen LSD dafür zu brauchen. 
 
@@ -43,6 +43,7 @@ Doch der Rausch ist nicht das einzige, wofür man LSD brauchen kann. LSD kann se
 In der Therapie wird LSD meist im Liegen und mit verdeckten Augen verabreicht, in einem solchen Setting dürfte das Risiko vernachlässigbar klein sein, die einzige Langzeitfolge von LSD ist die Psychose, welche allerdings nur dann auftreten dürfte, wenn sie sich auch anderes ergeben hätte. Wirkliche Langzeitschäden gibt es deshalb nicht. Dazu kommt das das Risiko von LSD mit dem Alter sinkt. Eine weitere Mögliche, um das Risiko weiter zu senken ist es mit Personen zu nehmen, welche man vertraut. 
 
 Beim Mikrodosing werden eigentlich nur sehr geringe Dosen eingenommen, Ziel dabei soll nicht ein psychedelischer Trip sein, es soll lediglich bezwecken mehr Kreativität und Optimismus zu haben. Dieses Ziel hatte vermutlich auch die junge Frau, doch durch fehlendes Wissen wurde aus den Mikrodosen normale Dosen. Unwissentlich erlebte sie einen Rausch, auf den sie in keiner Hinsicht vorbereitet war. Auf sich alleine gestellt übermannten sie die Erfahrungen und Gefühle, sie hörte stimmen in ihrem Kopf und hatte das Gefühl sie würde verfolgt werden. Sie verliess die Party, nach einer Zeit muss sie so verzweifelt gewesen sein, dass sie sich in einem Park an einem Baum erhängte.
+![LSD als Papier](/img/pille.jpg)
 
 So eine Schreckliche Sache zu hören, schreckt natürlich ab und das ist auch richtig. LSD ist und bleibt eine Droge, auch wenn viele Gemeinsamkeiten zu anderen Drogen fehlen, können auch mit LSD Unfälle passieren. Dies darf allerdings nicht als allgemeingültig erklären werden, da dies nicht üblich ist. 
 

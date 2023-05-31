@@ -19,7 +19,7 @@ Albert Hoffman entdeckte «LSD» 1938, damals stellte er die berühmteste Form, 
 Aufgrund von dem, dass es nur sehr geringe Mengen LSD braucht, um high zu werden, ist die Einnahme ein wenig anders als bei anderen Drogen. LSD wird entweder ganz herkömmlich in Pillenform konsumiert oder über Papierstücke, diese werden in eine Flüssigkeit eingelegt, in welcher das LSD aufgelöst wurde. Nach dem Trocknen ist der Wirkstoff in dem Papier und muss nur noch gegessen werden.
 
 {{<box>}}
-Wie funktioniert LSD? – LSD (Lysergsäurediethylamid) bindet an den Rezeptor Serotonin, jedoch ist dieser nicht der einzige, mit welchem LSD eine Bindung eingeht, LSD bindet unteranderem auch an Dopaminrezeptoren und andere. Die Plasmahalbwertszeit beträgt etwa 3 Stunden, jedoch geht so ein Rausch etwas zwischen 8 und 12 Stunden, jedoch kann es Nachwirkungen auch noch während einiger > Tage danach geben.
+Wie funktioniert LSD? – LSD (Lysergsäurediethylamid) bindet an den Rezeptor Serotonin, jedoch ist dieser nicht der einzige, mit welchem LSD eine Bindung eingeht, LSD bindet unteranderem auch an Dopaminrezeptoren und andere. Die Plasmahalbwertszeit beträgt etwa 3 Stunden, jedoch geht so ein Rausch etwas zwischen 8 und 12 Stunden, jedoch kann es Nachwirkungen auch noch während einiger Tage danach geben.
 {{</box>}}
 
 Die Wirkungen von LSD sind verschieden, jedoch sind die meisten davon Stressreaktionen, das heisst dass der Blutdruck steigt, der Puls steigt und die Pupillen erweitern sich, um nur einige zu nennen. Diese sind jedoch nicht alle möglichen Reaktionen, es kann auch zu Übelkeit kommen oder zu Krämpfen. Die vermutlich tödliche Dosis dürfte jedoch sehr weit von der Wirkungsdosis entfernt sein, es ist auch kein Todesfall bekannt, welcher direkt von LSD verursacht ist, dies kommt unteranderem davon, dass LSD in der bekömmlichen Form sehr potent ist. Es gibt kaum etwas, was in so kleinen Mengen eine so starke Wirkung hat. Die Stärke kommt jedoch nicht von ungefähr, Albert Hoffmann hat viele sehr ähnliche Substanzen getestet. Jedoch waren abgesehen von LSD-25 kaum Variationen wirklich wirkungsvoll. LSD-25 ist nicht eine spezielle Form, es ist die Form von LSD die vermutlich produziert und verkauft wird. Es gibt zwar auch andere Derivate welche erhältlich sind, jedoch sind diese nicht wirklich wichtig, auch gerade deshalb, weil diese deutlich weniger pychoativ sind. Einer der Haupteinsatzzwecke von LSD war die Behandlung von PTBS. Dieser Einsatzzweck verschwindet allerdings immer mehr, da MDMA besser geeignet ist, es spricht jedoch kaum etwas dagegen LSD dafür zu brauchen. 
@@ -32,7 +32,7 @@ Die psychischen Wirkungen von LSD sind jedoch weit interessanter als die physisc
 
 LSD kann in keiner Hinsicht abhängig/süchtig mache, weder Körperlich wie bei Alkohol oder Heroin noch Psychisch wie bei Ecstasy oder Cannabis. Das Einzige, was sein kann ist, dass man den Rausch toll gefunden hat und deswegen ein zweites oder weitere Male LSD konsumiert, falls man jedoch will, sollte es nicht sehr schwer sein damit aufzuhören.
 
-Marc hat die ganze Thematik relativ gut zusammengefasst: Ohne gute Vorbereitung, ist es wahrscheinlicher einen sogenannten Bad-Trip zu haben. – Marc Roder
+> Marc hat die ganze Thematik relativ gut zusammengefasst: Ohne gute Vorbereitung, ist es wahrscheinlicher einen sogenannten Bad-Trip zu haben. – Marc Roder
 
 Doch der Rausch ist nicht das einzige, wofür man LSD brauchen kann. LSD kann sehr gut als Medikament eingesetzt werden, ein Beispiel dafür ist eine Wirkung von LSD, mit welcher man Erinnerungen wieder durchleben kann, auch wenn ein sonstiger Zugriff zu solchen Informationen schwierig ist. Es hat jedoch den Nachteil, dass weil man das ganze wieder durchlebt, es sehr unangenehm sein kann. Es gibt zwar auch MDMA, welches das Durchleben in der Zukunft angenehmer machen sollte, jedoch gibt es nicht nur einen Einsatzzweck von LSD in der Therapie.
 
@@ -58,7 +58,7 @@ Dies ist etwas, was sich selbst ein Mensch mit viel Phantasie sich schwer vorste
 
 LSD kann in keiner Hinsicht abhängig/süchtig mache, weder Körperlich wie bei Alkohol oder Heroin noch Psychisch wie bei Ecstasy oder Cannabis. Das Einzige, was sein kann ist, dass man den Rausch toll gefunden hat und deswegen ein zweites oder weitere Male LSD konsumiert, falls man jedoch will, sollte es nicht sehr schwer sein damit aufzuhören.
 
-Der Konsum von LSD führt nicht zu kognitiven Einschränkungen, wie dies bspw. Bei langjährigem Cannabiskonsum in hohen Dosen der Fall sein kann – Marc Roder
+> Der Konsum von LSD führt nicht zu kognitiven Einschränkungen, wie dies bspw. Bei langjährigem Cannabiskonsum in hohen Dosen der Fall sein kann – Marc Roder
 
 Einer der Haupteinsatzzwecke von LSD war die Behandlung von PTBS. Dieser Einsatzzweck verschwindet allerdings immer mehr, da MDMA besser geeignet ist, es spricht jedoch kaum etwas dagegen LSD dafür zu brauchen.
 

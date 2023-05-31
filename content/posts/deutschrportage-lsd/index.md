@@ -8,6 +8,7 @@ image = "/img/default-image****.jpg"
 description = "Dies ist ein Auftrag vom Gymnasium Kirchenfeld"
 # LSD – Droge oder Therapiestoff? 
 
+test test test
 *LSD ein Rauschmittel oder doch nur Medizin? Dies ist die Frage, welche wir uns bei unserer Reportage gestellt haben. In unserem Interview mit M. Roder, einem Apotheker und Angestellten beim Pharmazeutischen Kontrolllabor in Bern, haben wir viele wichtige Fakten aber auch Geschichten von Betroffenen erfahren*
 
 Albert Hoffman entdeckte «LSD» 1938, damals stellte er die berühmteste Form, LSD-25 her, allerdings hatte er damals noch kein Versuch damit gemacht, dies kam erst fünf Jahre später. Im Frühjahr 1943 stellte Albert Hoffman noch einmal LSD-25 her. Er hatte aus Versehen einmal vermutlich etwas davon auf den Finger bekommen. Da er danach in einen rauschartigen Zustand verfiel und er es sich nicht anderes erklären konnte, hatte er sich zum Selbstversuch entschlossen. Dieser wurde mit 0.25 mg durchgeführt, was enorm wenig ist, im Verglich zu allem anderen damals bekannten. Hoffman hatte zuerst ein sehr dämonisches Bild von LSD, er durchlebte zuerst nicht wirklich etwas Schönes, bevor es dazu kam, dass er es geniessen konnte. Deshalb war er auch zuerst erstaunt, dass es Leute als Rauschmittel benutzten. Er hatte damals ausser stark geweiteten Pupillen, keine äusserlichen Anomalien. Was auch nicht besonders erstaunt, wenn man die Wirkungen sich einmal genauer anschaut.

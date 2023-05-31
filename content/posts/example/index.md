@@ -64,7 +64,6 @@ Und so eine nummerierte Liste:
 
 Bilder werden mit dem `+`-Symbol eingefügt.
 
-![Der Alt-Text wird jeweils als Bildunterschrift angezeigt.](/img/pille.jpg)
 
 **Empfehlung für Bilder**: Meist empfiehlt sich, ein Bild ganz zuoberst im `Inhalt`-Feld einzufügen. Zusätzlich sollte man dieses auch im `Bild`-Feld angeben, damit es in der Blogübersicht erscheint.
 

@@ -15,17 +15,7 @@ In diesem Artikel werden Möglichkeiten aufgezeigt für das Verfassen von Blogei
 
 Tipp: Um diesen Blogartikel zu behalten, ohne ihn zu löschen, kann man den **Entwurfsmodus** einschalten.
 
-# Überschrift 1
 
-So sieht die grösste Überschrift aus (H1).
-
-## Überschrift 2
-
-Dies ist die Überschrift 2 (H2).
-
-### Überschrift 3
-
-Die Überschrift 3 ist nicht mehr im Menu verfügbar. Wenn man sie verwenden will, muss man in den `Markdown`-Modus wechseln und dort eine Überschrift mit drei Hastags einleiten: `### Überschrift 3`
 
 #### Überschrift 4
 

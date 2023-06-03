@@ -3,5 +3,5 @@ headless = true
 icon = ""
 logo = ""
 image = ""
-color = "#ffffff"
+color = "#f0f0f0"
 +++

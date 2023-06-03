@@ -44,6 +44,8 @@ Risikoverminderung mit LSD – Einer der wichtigsten Faktoren dürften die Perso
 In der Therapie wird LSD meist im Liegen und mit verdeckten Augen verabreicht, in einem solchen Setting dürfte das Risiko vernachlässigbar klein sein, die einzige Langzeitfolge von LSD ist die Psychose, welche allerdings nur dann auftreten dürfte, wenn sie sich auch anderes ergeben hätte. Wirkliche Langzeitschäden gibt es deshalb nicht. Dazu kommt das das Risiko von LSD mit dem Alter sinkt. Eine weitere Mögliche, um das Risiko weiter zu senken ist es mit Personen zu nehmen, welche man vertraut.
 
 Beim Mikrodosing werden eigentlich nur sehr geringe Dosen eingenommen, Ziel dabei soll nicht ein psychedelischer Trip sein, es soll lediglich bezwecken mehr Kreativität und Optimismus zu haben. Dieses Ziel hatte vermutlich auch die junge Frau, doch durch fehlendes Wissen wurde aus den Mikrodosen normale Dosen. Unwissentlich erlebte sie einen Rausch, auf den sie in keiner Hinsicht vorbereitet war. Auf sich alleine gestellt übermannten sie die Erfahrungen und Gefühle, sie hörte stimmen in ihrem Kopf und hatte das Gefühl sie würde verfolgt werden. Sie verliess die Party, nach einer Zeit muss sie so verzweifelt gewesen sein, dass sie sich in einem Park an einem Baum erhängte.
+
+This is a temporary test
 ![LSD-Pillen](/img/Pille.png "title")
 
 So eine Schreckliche Sache zu hören, schreckt natürlich ab und das ist auch richtig. LSD ist und bleibt eine Droge, auch wenn viele Gemeinsamkeiten zu anderen Drogen fehlen, können auch mit LSD Unfälle passieren. Dies darf allerdings nicht als allgemeingültig erklären werden, da dies nicht üblich ist.

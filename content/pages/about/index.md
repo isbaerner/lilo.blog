@@ -6,7 +6,7 @@ description = ""
 +++
 # isbaerner
 
-Ich bin eine Internettidentität, es gibt keinen Grund irgendetwas hier über mich zu schreiben, denn dies hier ist öffentlich.
+Ich bin eine Internettidentität, es gibt keinen Grund irgendetwas hier über isbaerner zu schreiben, denn dies hier ist öffentlich.
 
 Wer jetzt denkt das das hier eine Idiotie für Paranoide ist, der darf jetzt gerne gehen. 
 

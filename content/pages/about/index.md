@@ -1,11 +1,9 @@
 +++
 title = "Über isbaerner"
 draft = false
-image = "Hintergrund (Mittel).JPG"
+image = ""
 description = ""
 +++
-![](Hintergrund (Mittel).JPG)
-
 # isbaerner
 
 Ich bin eine Internettidentität, es gibt keinen Grund irgendetwas hier über mich zu schreiben, denn dies hier ist öffentlich.

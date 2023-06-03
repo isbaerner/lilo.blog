@@ -1,7 +1,7 @@
 +++
 title = "Deutschreportage"
 date = "2023-05-31"
-draft = true
+draft = false
 pinned = false
 tags = ["Deutsch", "Reportage", "LSD"]
 image = "/img/strukturformel.png"

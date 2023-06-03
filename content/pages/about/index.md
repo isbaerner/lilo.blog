@@ -4,7 +4,7 @@ draft = false
 image = "Hintergrund (Mittel).JPG"
 description = ""
 +++
-![](/img/default-author.jpg)
+![](Hintergrund (Mittel).JPG)
 
 # isbaerner
 

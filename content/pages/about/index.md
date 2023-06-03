@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "Über isbaerner"
 draft = false
 image = "Hintergrund (Mittel).JPG"
 description = ""
